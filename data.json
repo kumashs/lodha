@@ -1,0 +1,20 @@
+[
+  {
+    "blog_id": 1,
+    "createdAt": "02/03/2025",
+    "title": "My first blog",
+    "description": "This is my first blog"
+  },
+  {
+    "blog_id": 4,
+    "createdAt": "123412",
+    "title": "Data123",
+    "description": "Data12354123"
+  },
+  {
+    "blog_id": 5,
+    "createdAt": "123412",
+    "title": "Data123",
+    "description": "Data12354123"
+  }
+]
